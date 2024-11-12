@@ -1,4 +1,5 @@
 # cmake_stm32f429i_disco_empty_project
-- stm32 cmake empty project
+- cmake project
 - for stm32f429i discovery board
+- empty project
 
